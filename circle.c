@@ -9,5 +9,4 @@ double circle(double x, double y, double r)
     printf("\n area - %f", M_PI * r * r);
     printf("\n    intersects  \n");
     return (float)2 * M_PI * r;
-
 }
